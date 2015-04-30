@@ -1,0 +1,21 @@
+﻿Build started 22/04/2015 21:54:31.
+     1>Project "C:\Users\lab1504.ANHEMBIMORUMBI\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication7.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Arquivo.cpp
+         Arquivo.cpp
+     1>c:\users\lab1504.anhembimorumbi\documents\visual studio 2013\projects\consoleapplication7\consoleapplication7\arquivo.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\lab1504.anhembimorumbi\documents\visual studio 2013\projects\consoleapplication7\consoleapplication7\arquivo.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\lab1504.anhembimorumbi\documents\visual studio 2013\projects\consoleapplication7\consoleapplication7\arquivo.cpp(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\lab1504.anhembimorumbi\documents\visual studio 2013\projects\consoleapplication7\consoleapplication7\arquivo.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\lab1504.anhembimorumbi\documents\visual studio 2013\projects\consoleapplication7\consoleapplication7\arquivo.cpp(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\lab1504.anhembimorumbi\documents\visual studio 2013\projects\consoleapplication7\consoleapplication7\arquivo.cpp(57): error C2105: '--' needs l-value
+     1>Done Building Project "C:\Users\lab1504.ANHEMBIMORUMBI\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.16
